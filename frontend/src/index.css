@@ -6,9 +6,9 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  background-color: beige;
-
-  font-family: "Roboto Mono", monospace;
+  background-color: #dee0ff;
+  font-family: "Montserrat", sans-serif;
+  --font-family: "Roboto Mono", monospace;
   /* display: flex;
   align-items: center;
   justify-content: center; */
